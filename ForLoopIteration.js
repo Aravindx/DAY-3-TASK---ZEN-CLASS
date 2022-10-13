@@ -25,16 +25,16 @@ for(var rev in res){
 
     
 let json = [{
-    "name" : "bala", 
+    "name" : "Aravind", 
     "gender"   : "male",
-    "DOB" : "10-05-2001",
+    "DOB" : "19-06-2001",
      "age":"21"
 },
 {
-    "name" : "Aparna", 
+    "name" : "Pavithra", 
     "gender"   : "female",
-    "DOB" : "11-09-2000",
-     "age":"22"
+    "DOB" : "27-09-2001",
+     "age":"21"
 },
 ];
  for(var i=0;i<json.length;i++){
